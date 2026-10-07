@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-06T22:31:19.396Z",
+  "generatedAt": "2026-10-07T05:11:40.297Z",
   "currency": "eur",
   "origins": [
     "CDG",
@@ -229,7 +229,7 @@
             "returnTransfers": 1,
             "link": "https://www.aviasales.fr/search/PAR2802TYO14031?t=CA18038436001803936600001070CDGPEKHND18050130001805046000001030HNDPEKCDG_5c87bf2e8d2ed3c03f577d546048b0fa_68841&search_date=04102026&expected_price_uuid=01a10714-3259-8030-6a98-33024feb5d29&static_fare_key=TY%7CP1%7CH1%7CL1_2_0%7CCH1%7CR0%7CTBC1&itinerary_key=SWU17KLVhgOyZDEPJ3ENVA&expected_price_source=share&expected_price_currency=eur&expected_price=734"
           },
-          "offers": 2,
+          "offers": 3,
           "failed": false
         },
         {
