@@ -1,5 +1,8 @@
 {
-  "origins": ["CDG", "ORY"],
+  "origins": [
+    "CDG",
+    "ORY"
+  ],
   "currency": "eur",
   "watches": [
     {
@@ -21,6 +24,16 @@
       "departTo": "2027-05-31",
       "minDays": 14,
       "maxDays": 60
+    },
+    {
+      "id": "montreal",
+      "label": "Montréal",
+      "to": "YMQ",
+      "maxPrice": 300,
+      "departFrom": "2027-03-24",
+      "departTo": "2027-04-15",
+      "minDays": 14,
+      "maxDays": 21
     }
   ]
 }
