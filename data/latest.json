@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-09T22:27:12.270Z",
+  "generatedAt": "2026-10-10T05:09:21.670Z",
   "currency": "eur",
   "origins": [
     "CDG",
@@ -37,8 +37,19 @@
         },
         {
           "month": "2026-11",
-          "best": null,
-          "offers": 0,
+          "best": {
+            "price": 965,
+            "departDate": "2026-11-01",
+            "returnDate": "2026-11-22",
+            "stayDays": 21,
+            "originAirport": "CDG",
+            "destinationAirport": "MEX",
+            "airline": "AV",
+            "transfers": 1,
+            "returnTransfers": 1,
+            "link": "https://www.aviasales.fr/search/PAR0111MEX22111?t=AV17935236001793596500001635CDGBOGMEX17953896001795503600001480MEXBOGCDG_06f1023ad951589f100c795c6bb18b3f_92078&search_date=09102026&expected_price_uuid=01a12318-28fd-8030-294d-301a06ea24a8&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=FnsotvnM_ZJnYRH4FizIcQ&expected_price_source=share&expected_price_currency=eur&expected_price=965"
+          },
+          "offers": 1,
           "failed": false
         },
         {
