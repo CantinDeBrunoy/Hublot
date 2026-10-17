@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-17T15:16:26.978Z",
+  "generatedAt": "2026-10-17T20:21:11.611Z",
   "currency": "eur",
   "origins": [
     "CDG",
@@ -128,7 +128,7 @@
             "returnTransfers": 1,
             "link": "https://www.aviasales.fr/search/PAR2710TYO27111?t=CA17931300001793223000001070CDGPEKHND17957892001795849200001480HNDPEKCDG_1589d55a74391a5e715a89848d9ddb3b_80701&search_date=11102026&expected_price_uuid=01a12bca-b845-8031-2929-f7e75aec39ab&static_fare_key=TY%7CP1%7CH0%7CL1_2_0%7CCH1%7CR0%7CTBC1&itinerary_key=fkVbsSPyyPv1Suf_Gl2eHw&expected_price_source=share&expected_price_currency=eur&expected_price=847"
           },
-          "offers": 2,
+          "offers": 1,
           "failed": false
         },
         {
@@ -213,7 +213,7 @@
             "returnTransfers": 1,
             "link": "https://www.aviasales.fr/search/PAR0203TYO19031?t=CA18040164001804177200002200CDGPEKHND18054660001805564400002120HNDPEKCDG_4b37b57c57370120ee9100e879c2a0b4_60928&search_date=11102026&expected_price_uuid=01a12960-28d5-8030-288d-da0d0c5eadde&static_fare_key=TY%7CP1%7CH1%7CL1_2_0%7CCH1%7CR0%7CTBC1&itinerary_key=tFYodUl0bGp6WAI3dE9rnQ&expected_price_source=share&expected_price_currency=eur&expected_price=639"
           },
-          "offers": 10,
+          "offers": 11,
           "failed": false
         },
         {
@@ -247,7 +247,7 @@
             "returnTransfers": 1,
             "link": "https://www.aviasales.fr/search/PAR0105TYO22051?t=AI18091755001809330900002170CDGDELHND18109866001811099700002305HNDDELCDG_c301991806be9ac0196164aea1a3c9e9_61013&search_date=12102026&expected_price_uuid=01a12ed5-e21d-8030-ecdc-4623981b3bfa&static_fare_key=TY%7CP1%7CH1%7CL1_1_23%7CCH0%7CR0%7CTBC1&itinerary_key=fx6mJiGS1DKFOu2O69R8gg&expected_price_source=share&expected_price_currency=eur&expected_price=643"
           },
-          "offers": 5,
+          "offers": 4,
           "failed": false
         }
       ]
