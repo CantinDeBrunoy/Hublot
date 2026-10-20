@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-20T16:36:03.736Z",
+  "generatedAt": "2026-10-20T21:25:04.095Z",
   "currency": "eur",
   "origins": [
     "CDG",
@@ -125,8 +125,19 @@
       "months": [
         {
           "month": "2026-10",
-          "best": null,
-          "offers": 0,
+          "best": {
+            "price": 1048,
+            "departDate": "2026-10-31",
+            "returnDate": "2026-11-15",
+            "stayDays": 15,
+            "originAirport": "CDG",
+            "destinationAirport": "HND",
+            "airline": "CA",
+            "transfers": 1,
+            "returnTransfers": 1,
+            "link": "https://www.aviasales.fr/search/PAR3110TYO15111?t=CA17934750001793623800002000CDGPEKHND17947764001794850800001720HNDPEKCDG_8dc8a75d5ebe05197dffe58e9eeda83b_97503&search_date=20102026&expected_price_uuid=01a15a3b-6f09-8030-e053-da350bf68314&static_fare_key=TY%7CP1%7CH1%7CL1_2_0%7CCH1%7CR0%7CTBC1&itinerary_key=PbdXtCXjNHxBOjw7rFQgYA&expected_price_source=share&expected_price_currency=eur&expected_price=1048"
+          },
+          "offers": 1,
           "failed": false
         },
         {
