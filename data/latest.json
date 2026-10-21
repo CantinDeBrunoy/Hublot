@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-20T21:25:04.095Z",
+  "generatedAt": "2026-10-21T04:00:03.824Z",
   "currency": "eur",
   "origins": [
     "CDG",
@@ -143,18 +143,18 @@
         {
           "month": "2026-11",
           "best": {
-            "price": 681,
-            "departDate": "2026-11-18",
-            "returnDate": "2026-12-09",
-            "stayDays": 21,
+            "price": 694,
+            "departDate": "2026-11-25",
+            "returnDate": "2026-12-11",
+            "stayDays": 16,
             "originAirport": "CDG",
-            "destinationAirport": "NRT",
-            "airline": "CZ",
-            "transfers": 2,
+            "destinationAirport": "HND",
+            "airline": "AI",
+            "transfers": 1,
             "returnTransfers": 1,
-            "link": "https://www.aviasales.fr/search/PAR1811TYO09121?t=CZ17949984001795125900001645CDGCANKIXNRT17968260001796884800001460NRTCANCDG_917ece68aeeca42b819d745917b8dc75_63740&search_date=14102026&expected_price_uuid=01a13847-5a49-8031-2227-f2fdf4a8346d&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=Xm4MOl5OwdTqyDKQaHEzPQ&expected_price_source=share&expected_price_currency=eur&expected_price=681"
+            "link": "https://www.aviasales.fr/search/PAR2511TYO11121?t=AI17956389001795759200001525CDGDELHND17969952001797102300002265HNDDELCDG_e80e16a24fd838ada3f31b55b3e85401_65034&search_date=14102026&expected_price_uuid=01a139f5-a54b-8030-ed8a-e80d9e783b3e&static_fare_key=TY%7CP1%7CH1%7CL1_1_23%7CCH1%7CR0%7CTBC1&itinerary_key=eN89Lo3WHL4HdURQTENasA&expected_price_source=share&expected_price_currency=eur&expected_price=694"
           },
-          "offers": 6,
+          "offers": 5,
           "failed": false
         },
         {
