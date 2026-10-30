@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-30T12:27:25.283Z",
+  "generatedAt": "2026-10-30T22:04:59.814Z",
   "currency": "eur",
   "origins": [
     "CDG",
@@ -84,7 +84,7 @@
         {
           "month": "2027-03",
           "best": {
-            "price": 855,
+            "price": 914,
             "departDate": "2027-03-30",
             "returnDate": "2027-04-20",
             "stayDays": 21,
@@ -93,7 +93,7 @@
             "airline": "AV",
             "transfers": 1,
             "returnTransfers": 1,
-            "link": "https://www.aviasales.fr/search/PAR3003MEX20041?t=AV18063969001806429900001030CDGBOGMEX18082632001808376900001415MEXBOGCDG_e13e00084fcc89baaa59d77b823d1b71_77811&search_date=30102026&expected_price_uuid=01a18ba3-ca7c-8030-e9eb-d782f9437cbe&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=cw2U2ftxAPkhw1vxscBGUw&expected_price_source=share&expected_price_currency=eur&expected_price=855"
+            "link": "https://www.aviasales.fr/search/PAR3003MEX20041?t=AV18063969001806495000002115CDGBOGMEX18081969001808290500001080MEXBOGCDG_b5247d9947ce8a33a7f1856a633797ae_82192&search_date=30102026&expected_price_uuid=01a18df4-a695-8030-26a6-5ce0be076882&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=nBPTALRamHfagJYZ5Mw8yA&expected_price_source=share&expected_price_currency=eur&expected_price=914"
           },
           "offers": 1,
           "failed": false
@@ -143,7 +143,7 @@
             "returnTransfers": 1,
             "link": "https://www.aviasales.fr/search/PAR2711TYO11121?t=CA17957790001795895400001460CDGPEKHND17970027001797097200002055HNDPEKCDG_41512beb3bce40ff8e857d1e0b0fc97e_62480&search_date=25102026&expected_price_uuid=01a1735a-7bb1-8031-20f3-924929881154&static_fare_key=TY%7CP1%7CH1%7CL1_2_0%7CCH1%7CR0%7CTBC1&itinerary_key=3MLWJRxVMSnW7zoCoKXJ-A&expected_price_source=share&expected_price_currency=eur&expected_price=682"
           },
-          "offers": 6,
+          "offers": 13,
           "failed": false
         },
         {
@@ -165,8 +165,19 @@
         },
         {
           "month": "2027-01",
-          "best": null,
-          "offers": 0,
+          "best": {
+            "price": 701,
+            "departDate": "2027-01-13",
+            "returnDate": "2027-01-28",
+            "stayDays": 15,
+            "originAirport": "CDG",
+            "destinationAirport": "HND",
+            "airline": "QR",
+            "transfers": 1,
+            "returnTransfers": 1,
+            "link": "https://www.aviasales.fr/search/PAR1301TYO28011?t=QR17998533001799967300001420CDGDOHHND18010959001801142100001250HNDDOHCDG_20f2605f58a9cf80da8af5aa5600eb26_63118&search_date=30102026&expected_price_uuid=01a18d53-ee8e-8030-eae2-fac3004c000a&static_fare_key=TY%7CP1%7CH1%7CL1_1_25%7CCH1%7CR1%7CTBC1&itinerary_key=2leqJG0DBDd_UEuJabCQsQ&expected_price_source=share&expected_price_currency=eur&expected_price=700"
+          },
+          "offers": 2,
           "failed": false
         },
         {
@@ -200,7 +211,7 @@
             "returnTransfers": 1,
             "link": "https://www.aviasales.fr/search/PAR0403TYO18031?t=CA18041886001804343100002095CDGPEKHND18054036001805478000001720HNDPEKCDG_4ff0b543a3527238b2f421bfcf4447de_59971&search_date=25102026&expected_price_uuid=01a17358-632a-8030-6175-abd8c968b550&static_fare_key=TY%7CP1%7CH1%7CL1_2_0%7CCH1%7CR0%7CTBC1&itinerary_key=UW1t21WKy6GL0-h1RbbdMQ&expected_price_source=share&expected_price_currency=eur&expected_price=655"
           },
-          "offers": 14,
+          "offers": 18,
           "failed": false
         },
         {
@@ -234,7 +245,7 @@
             "returnTransfers": 1,
             "link": "https://www.aviasales.fr/search/PAR1105TYO28051?t=AI18100683001810194900001690CDGDELHND18115050001811618100002305HNDDELCDG_26c364dce2c17f0d052fc502ae582321_63153&search_date=29102026&expected_price_uuid=01a188fd-dfa9-8030-ef8b-c457052e711d&static_fare_key=TY%7CP1%7CH1%7CL1_1_23%7CCH1%7CR0%7CTBC1&itinerary_key=sjncI8MeChDCsaOIt4wTDA&expected_price_source=share&expected_price_currency=eur&expected_price=695"
           },
-          "offers": 7,
+          "offers": 6,
           "failed": false
         }
       ]
