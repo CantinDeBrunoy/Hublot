@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-31T21:14:01.971Z",
+  "generatedAt": "2026-11-01T05:16:03.267Z",
   "currency": "eur",
   "origins": [
     "CDG",
@@ -18,12 +18,6 @@
       "maxDays": 60,
       "deals": [],
       "months": [
-        {
-          "month": "2026-10",
-          "best": null,
-          "offers": 0,
-          "failed": false
-        },
         {
           "month": "2026-11",
           "best": null,
@@ -124,12 +118,6 @@
       "deals": [],
       "months": [
         {
-          "month": "2026-10",
-          "best": null,
-          "offers": 0,
-          "failed": false
-        },
-        {
           "month": "2026-11",
           "best": {
             "price": 680,
@@ -143,7 +131,7 @@
             "returnTransfers": 1,
             "link": "https://www.aviasales.fr/search/PAR2511TYO11121?t=EY17956005001795693200001065CDGAUHNRT17970096001797057900001285NRTAUHCDG_4b4c38a301ede7a276f4ab6d4625a03b_61186&search_date=31102026&expected_price_uuid=01a19138-9a47-8030-a4ae-1e7fa70aefdf&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=X6y12J_VnVy11e-TFeS6Xg&expected_price_source=share&expected_price_currency=eur&expected_price=680"
           },
-          "offers": 12,
+          "offers": 13,
           "failed": false
         },
         {
@@ -160,7 +148,7 @@
             "returnTransfers": 1,
             "link": "https://www.aviasales.fr/search/PAR0512TYO20121?t=QR17964597001796558100001160CDGDOHNRT17978037001797858900001400NRTDOHCDG_c09d46291eeb80fb5c4a0fa51009b3a7_64979&search_date=28102026&expected_price_uuid=01a18289-3587-8031-2d8f-b5e594ea3dd5&static_fare_key=TY%7CP1%7CH1%7CL1_1_25%7CCH0%7CR0%7CTBC1&itinerary_key=L_nVwtwHP9jZ58GOmX_-WQ&expected_price_source=share&expected_price_currency=eur&expected_price=723"
           },
-          "offers": 6,
+          "offers": 7,
           "failed": false
         },
         {
@@ -211,7 +199,7 @@
             "returnTransfers": 1,
             "link": "https://www.aviasales.fr/search/PAR0403TYO18031?t=CA18041886001804343100002095CDGPEKHND18054036001805478000001720HNDPEKCDG_4ff0b543a3527238b2f421bfcf4447de_59971&search_date=25102026&expected_price_uuid=01a17358-632a-8030-6175-abd8c968b550&static_fare_key=TY%7CP1%7CH1%7CL1_2_0%7CCH1%7CR0%7CTBC1&itinerary_key=UW1t21WKy6GL0-h1RbbdMQ&expected_price_source=share&expected_price_currency=eur&expected_price=655"
           },
-          "offers": 18,
+          "offers": 17,
           "failed": false
         },
         {
