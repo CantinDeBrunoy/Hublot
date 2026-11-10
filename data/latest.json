@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-09T15:42:00.741Z",
+  "generatedAt": "2026-11-10T01:20:16.249Z",
   "currency": "eur",
   "origins": [
     "CDG",
@@ -109,24 +109,24 @@
         {
           "month": "2026-11",
           "best": {
-            "price": 656,
+            "price": 668,
             "departDate": "2026-11-23",
-            "returnDate": "2026-12-08",
-            "stayDays": 15,
+            "returnDate": "2026-12-10",
+            "stayDays": 17,
             "originAirport": "CDG",
             "destinationAirport": "NRT",
             "airline": "EY",
             "transfers": 1,
             "returnTransfers": 1,
-            "link": "https://www.aviasales.fr/search/PAR2311TYO08121?t=EY17954277001795520400001065CDGAUHNRT17967504001796841300001995NRTAUHCDG_166cc3e4d1cccdca6b5ae6aa9ec43a42_59633&search_date=02112026&expected_price_uuid=01a19d9a-825a-8030-a4c3-fffd17dde741&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=Vgne6Vy_ad0-owQbZCQojA&expected_price_source=share&expected_price_currency=eur&expected_price=656"
+            "link": "https://www.aviasales.fr/search/PAR2311TYO10121?t=EY17954439001795612500002330CDGAUHNRT17969232001796971500001285NRTAUHCDG_ed3d82dc12cbcf665925eec6342113dd_61873&search_date=10112026&expected_price_uuid=01a1c2c4-54c9-8030-ec47-754091792442&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=OHNZZcHSzdReNPZFZ0X0VQ&expected_price_source=share&expected_price_currency=eur&expected_price=668"
           },
-          "offers": 15,
+          "offers": 11,
           "failed": false
         },
         {
           "month": "2026-12",
           "best": {
-            "price": 666,
+            "price": 664,
             "departDate": "2026-12-04",
             "returnDate": "2027-01-20",
             "stayDays": 47,
@@ -135,7 +135,7 @@
             "airline": "EY",
             "transfers": 1,
             "returnTransfers": 1,
-            "link": "https://www.aviasales.fr/search/PAR0412TYO20011?t=EY17963781001796470800001065CDGAUHNRT18004656001800513900001285NRTAUHCDG_79def6a8caa1187beafae2dafc72b25d_61313&search_date=09112026&expected_price_uuid=01a1c07e-5430-8030-e3c0-ac1c3989de18&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=q9mBRJyAvSYoWRb1BX9bbw&expected_price_source=share&expected_price_currency=eur&expected_price=666"
+            "link": "https://www.aviasales.fr/search/PAR0412TYO20011?t=EY17963781001796470800001065CDGAUHNRT18004656001800513900001285NRTAUHCDG_79def6a8caa1187beafae2dafc72b25d_61313&search_date=09112026&expected_price_uuid=01a1c07e-5430-8030-e3c0-ac1c3989de18&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=q9mBRJyAvSYoWRb1BX9bbw&expected_price_source=share&expected_price_currency=eur&expected_price=664"
           },
           "offers": 5,
           "failed": false
@@ -154,24 +154,24 @@
             "returnTransfers": 1,
             "link": "https://www.aviasales.fr/search/PAR1201TYO28011?t=QR17997429001799841300001160CDGDOHNRT18010959001801168200001685HNDDOHCDG_65702ad115148b60c7495833f2711128_60946&search_date=05112026&expected_price_uuid=01a1acda-6467-8030-27be-2c27c7981783&static_fare_key=TY%7CP1%7CH1%7CL1_1_25%7CCH0%7CR0%7CTBC1&itinerary_key=UYmUouirzzrYFkg2iOHV2Q&expected_price_source=share&expected_price_currency=eur&expected_price=666"
           },
-          "offers": 6,
+          "offers": 9,
           "failed": false
         },
         {
           "month": "2027-02",
           "best": {
-            "price": 863,
-            "departDate": "2027-02-06",
-            "returnDate": "2027-02-21",
-            "stayDays": 15,
+            "price": 895,
+            "departDate": "2027-02-13",
+            "returnDate": "2027-02-27",
+            "stayDays": 14,
             "originAirport": "CDG",
-            "destinationAirport": "HND",
-            "airline": "QR",
-            "transfers": 1,
-            "returnTransfers": 1,
-            "link": "https://www.aviasales.fr/search/PAR0602TYO21021?t=QR18019269001802040900001420CDGDOHHND18032289001803302100001700NRTDOHCDG_dc5fdca95bd3020eeadafe70c42db731_78508&search_date=02112026&expected_price_uuid=01a19dc9-f353-8031-2935-53208bf56286&static_fare_key=TY%7CP1%7CH1%7CL1_1_25%7CCH0%7CR0%7CTBC1&itinerary_key=nZ7jovgTQuxFUpON3Ec07g&expected_price_source=share&expected_price_currency=eur&expected_price=863"
+            "destinationAirport": "NRT",
+            "airline": "JU",
+            "transfers": 3,
+            "returnTransfers": 3,
+            "link": "https://www.aviasales.fr/search/PAR1302TYO27021?t=CA18025542001802848200004420CDGBEGATHSINNRT18037617001803881700002480NRTHKGHANTFUCDG_e76f63dd0c532862841706cb2539cbc6_81734&search_date=08112026&expected_price_uuid=01a1bae5-9c75-8031-2116-309dd589d9b2&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=y3BWA3tsnwvAWvAiNOK04A&expected_price_source=share&expected_price_currency=eur&expected_price=895"
           },
-          "offers": 2,
+          "offers": 1,
           "failed": false
         },
         {
@@ -194,7 +194,7 @@
         {
           "month": "2027-04",
           "best": {
-            "price": 901,
+            "price": 899,
             "departDate": "2027-04-05",
             "returnDate": "2027-04-25",
             "stayDays": 20,
@@ -203,7 +203,7 @@
             "airline": "AI",
             "transfers": 1,
             "returnTransfers": 1,
-            "link": "https://www.aviasales.fr/search/PAR0504TYO25041?t=MF18069291001807084500002170CDGDELHND18086649001808722500001380NRTXMNCDG_ed9a693442b56add84db7aaa7acd32c3_82551&search_date=09112026&expected_price_uuid=01a1bf27-e8c2-8030-e895-ec9fa3ae7e9f&static_fare_key=TY%7CP0%7CH1%7CL1_1_0%7CCH0%7CR0%7CTBC1&itinerary_key=c-2ny8zRWcvMDRbKWnqHzA&expected_price_source=share&expected_price_currency=eur&expected_price=901"
+            "link": "https://www.aviasales.fr/search/PAR0504TYO25041?t=MF18069291001807084500002170CDGDELHND18086649001808722500001380NRTXMNCDG_ed9a693442b56add84db7aaa7acd32c3_82551&search_date=09112026&expected_price_uuid=01a1bf27-e8c2-8030-e895-ec9fa3ae7e9f&static_fare_key=TY%7CP0%7CH1%7CL1_1_0%7CCH0%7CR0%7CTBC1&itinerary_key=c-2ny8zRWcvMDRbKWnqHzA&expected_price_source=share&expected_price_currency=eur&expected_price=899"
           },
           "offers": 5,
           "failed": false
