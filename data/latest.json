@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-10T01:20:16.249Z",
+  "generatedAt": "2026-11-10T14:36:24.764Z",
   "currency": "eur",
   "origins": [
     "CDG",
@@ -109,7 +109,7 @@
         {
           "month": "2026-11",
           "best": {
-            "price": 668,
+            "price": 669,
             "departDate": "2026-11-23",
             "returnDate": "2026-12-10",
             "stayDays": 17,
@@ -118,9 +118,9 @@
             "airline": "EY",
             "transfers": 1,
             "returnTransfers": 1,
-            "link": "https://www.aviasales.fr/search/PAR2311TYO10121?t=EY17954439001795612500002330CDGAUHNRT17969232001796971500001285NRTAUHCDG_ed3d82dc12cbcf665925eec6342113dd_61873&search_date=10112026&expected_price_uuid=01a1c2c4-54c9-8030-ec47-754091792442&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=OHNZZcHSzdReNPZFZ0X0VQ&expected_price_source=share&expected_price_currency=eur&expected_price=668"
+            "link": "https://www.aviasales.fr/search/PAR2311TYO10121?t=EY17954439001795612500002330CDGAUHNRT17969232001796971500001285NRTAUHCDG_ed3d82dc12cbcf665925eec6342113dd_61873&search_date=10112026&expected_price_uuid=01a1c2c4-54c9-8030-ec47-754091792442&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=OHNZZcHSzdReNPZFZ0X0VQ&expected_price_source=share&expected_price_currency=eur&expected_price=669"
           },
-          "offers": 11,
+          "offers": 10,
           "failed": false
         },
         {
@@ -137,7 +137,7 @@
             "returnTransfers": 1,
             "link": "https://www.aviasales.fr/search/PAR0412TYO20011?t=EY17963781001796470800001065CDGAUHNRT18004656001800513900001285NRTAUHCDG_79def6a8caa1187beafae2dafc72b25d_61313&search_date=09112026&expected_price_uuid=01a1c07e-5430-8030-e3c0-ac1c3989de18&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=q9mBRJyAvSYoWRb1BX9bbw&expected_price_source=share&expected_price_currency=eur&expected_price=664"
           },
-          "offers": 5,
+          "offers": 11,
           "failed": false
         },
         {
