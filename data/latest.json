@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-22T14:20:48.634Z",
+  "generatedAt": "2026-11-22T23:25:55.186Z",
   "currency": "eur",
   "origins": [
     "CDG",
@@ -166,7 +166,7 @@
         {
           "month": "2027-03",
           "best": {
-            "price": 770,
+            "price": 818,
             "departDate": "2027-03-04",
             "returnDate": "2027-03-18",
             "stayDays": 14,
@@ -175,9 +175,9 @@
             "airline": "CA",
             "transfers": 1,
             "returnTransfers": 1,
-            "link": "https://www.aviasales.fr/search/PAR0403TYO18031?t=CA18041886001804343100002095CDGPEKHND18053928001805478000001900HNDPEKCDG_4f70b6b7ffee17a531ee4bd2f7364a0b_69344&search_date=19112026&expected_price_uuid=01a1f3bf-cde0-8030-e3f2-b610a4345da3&static_fare_key=TY%7CP1%7CH1%7CL1_2_0%7CCH1%7CR0%7CTBC1&itinerary_key=0ByjMagqVptxp7uC90sQVA&expected_price_source=share&expected_price_currency=eur&expected_price=770"
+            "link": "https://www.aviasales.fr/search/PAR0403TYO18031?t=CA18041886001804276200000980CDGPEKHND18053928001805478000001900HNDPEKCDG_1637dce11f1989df734cda48dbdb0857_73151&search_date=22112026&expected_price_uuid=01a203c2-8e1d-8030-28aa-6e5de6ccc270&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=4eXmqR7Rc_QwgHyvtopfxw&expected_price_source=share&expected_price_currency=eur&expected_price=818"
           },
-          "offers": 2,
+          "offers": 3,
           "failed": false
         },
         {
@@ -194,7 +194,7 @@
             "returnTransfers": 1,
             "link": "https://www.aviasales.fr/search/PAR0504TYO25041?t=VN18069291001807084500002170CDGDELHND18086454001808722800001710NRTHANCDG_3911a66a9c180fb8e221770b93ae8e95_79576&search_date=22112026&expected_price_uuid=01a20313-d1ba-8030-2665-4ce15a9bf8c9&static_fare_key=TY%7CP0%7CH1%7CL1_1_23%7CCH0%7CR0%7CTBC1&itinerary_key=GIyPR6x9EXyMi3r7KoLAUg&expected_price_source=share&expected_price_currency=eur&expected_price=890"
           },
-          "offers": 3,
+          "offers": 4,
           "failed": false
         },
         {
